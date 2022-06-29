@@ -3,5 +3,5 @@
 Integrantes:
 Manuel Zarraga
 Diego Bustamante
-Nicolas Condezo
+Nicolas Condezo :cowboy_hat_face:
 Sergio Rodriguez
