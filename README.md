@@ -1,7 +1,7 @@
 # MercadoTech
 
 Integrantes:
-Manuel Zarraga
+Manuel Zarraga :money_mouth_face:
 Diego Bustamante
 Nicolas Condezo :cowboy_hat_face:
 Sergio Rodriguez
