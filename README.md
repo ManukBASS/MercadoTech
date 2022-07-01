@@ -6,7 +6,7 @@ Diego Bustamante
 Nicolas Condezo :cowboy_hat_face:
 Sergio Rodriguez
 
-#***Terminal***
+# ***Terminal***
 
 Me gustó la relación Teoría/Práctica de este tema, el manejo de la terminal
 se volvió un punto muy importante en esta carrera y es una herramienta
